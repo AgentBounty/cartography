@@ -83,7 +83,7 @@ dev = [
     "pytest-rerunfailures",
     "pytest-asyncio",
     "types-PyYAML",
-    "black==25.1.0",
+    "black==26.3.1",
     "types-requests<2.32.4.20250810",
 ]
 doc = [
